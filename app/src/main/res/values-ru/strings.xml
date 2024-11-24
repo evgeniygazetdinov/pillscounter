@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Счетчик таблеток</string>
+    
+    <!-- Main Activity -->
+    <string name="add_pill">Добавить таблетку</string>
+    <string name="pill_name">Название</string>
+    <string name="dosage">Дозировка</string>
+    <string name="count">Количество</string>
+    <string name="add">Добавить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+    <string name="save">Сохранить</string>
+    <string name="select_image">Выбрать изображение</string>
+    
+    <!-- Pill Detail Activity -->
+    <string name="add_taking">Добавить прием</string>
+    <string name="edit_taking">Редактировать прием</string>
+    <string name="delete_taking">Удалить прием</string>
+    <string name="delete_taking_confirmation">Вы уверены, что хотите удалить этот прием?</string>
+    <string name="select_time">Выбрать время</string>
+    <string name="seconds">Сек</string>
+    <string name="remaining">Осталось: %1$d</string>
+    <string name="dosage_format">Дозировка: %1$s</string>
+    
+    <!-- Delete Dialog -->
+    <string name="delete_pill">Удалить таблетку</string>
+    <string name="delete_confirmation">Вы уверены, что хотите удалить %1$s? Это также удалит всю историю приема.</string>
+    
+    <!-- Taking List -->
+    <string name="taking_count">Количество: %1$d</string>
+    <string name="time_format">Время: %1$s</string>
+</resources>
